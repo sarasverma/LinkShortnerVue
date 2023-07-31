@@ -1,3 +1,3 @@
-# link-shortener-website
+# Link Shortner Vue
 
-A project from [codementor.io](https://www.codementor.io) to learn Vue.js
+Live link :- https://linkshortnersam.netlify.app/
